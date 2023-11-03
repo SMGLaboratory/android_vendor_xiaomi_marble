@@ -3091,7 +3091,9 @@ PRODUCT_PACKAGES += \
     uimgbaservice \
     HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND \
     HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
+    Ims \
     ImsRcsService \
+    QtiTelephony \
     QtiTelephonyService \
     colorservice \
     dpmserviceapp \
